@@ -1,4 +1,4 @@
-# Dishwasher is 
+# Dishwasher is Residential
 
 ## Context and Problem Statement
 
@@ -18,7 +18,7 @@ We often entertain, cook many-dish meals and use our dishwasher for sanitizing t
 
 ## Decision Outcome
 
-- To be determined
+- Residential High End. Old bosch in upper level.
 
 ## Pros and Cons of the Options
 
